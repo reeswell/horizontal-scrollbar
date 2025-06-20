@@ -31,8 +31,8 @@
       "require": "./dist/vue-horizontal-scrollbar.umd.js"
     },
     "./dist/vue-horizontal-scrollbar.css": {
-      "import": "./dist/vue-horizontal-scrollbar.css",
-      "require": "./dist/vue-horizontal-scrollbar.css"
+      "import": "./dist/style.css",
+      "require": "./dist/style.css"
     }
   },
   "files": [
